@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza Dundar</h1>
-<h3 align="center">Hello everyone, I'm Beyza Dundar. After graduating from Dokuz Eylul University Faculty of Engineering in 2019, I spent a part of my life trying to find the things that I enjoy doing and that interest me in my professional life, unlike the culture of practicing the profession of your department. In these processes, I tried to find the answer to this question by trying different sectors. This process, which I started by doing data analysis in artificial intelligence education projects, got me even more excited and contributed to my self-development, and I decided to continue on my path as a data scientist. I think that the different perspectives I have developed as a result of my experiences in different sectors will contribute greatly to this path. I have full faith in myself that I can reflect my excitement and energy on this subject to you.</h3>
+<h3 align="center">Hello everyone, I am interested in data science and I will be happy to share my projects with you here.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dundarbeyza&label=Profile%20views&color=0e75b6&style=flat" alt="dundarbeyza" /> </p>
 
