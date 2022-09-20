@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Beyza Dundar</h1>
-<h3 align="center">Hello everyone, I am interested in data science and I will be happy to share my projects with you here.</h3>
+<h1 align="center">Hello 👋 I'm Beyza Dündar</h1>
+<h3 align="center">Hi everyone, I am Beyza Dündar, I have been training on the data world for 2 years and I have learned a lot in the kitchen of the business. I am happy to share my projects with you here.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dundarbeyza&label=Profile%20views&color=0e75b6&style=flat" alt="dundarbeyza" /> </p>
 
@@ -16,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dundarbeyza&show_icons=true&locale=en&layout=compact" alt="dundarbeyza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dundarbeyza&show_icons=true&locale=en" alt="dundarbeyza" /></p>
-
