@@ -1,5 +1,9 @@
 <h1 align="center">Hello 👋 I'm Beyza Dündar</h1>
-<h3 align="center">Hi everyone, I am Beyza Dündar, I have been training on the data world for 2 years and I have learned a lot in the kitchen of the business. I am happy to share my projects with you here.</h3>
+<h3 align="center">Hello everyone,
+
+Although I have been dealing with data for 2 years, I can say that I am a new data scientist. Since the day I discovered my passion for this subject, I have been trying to explore the data world by putting great effort into it.
+
+I hope that as I continue this journey, I will be able to reveal my own potential by meeting with knowledgeable people and environments that will develop me further.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dundarbeyza&label=Profile%20views&color=0e75b6&style=flat" alt="dundarbeyza" /> </p>
 
